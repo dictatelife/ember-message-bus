@@ -1,7 +1,7 @@
 [![npm version](https://badge.fury.io/js/ember-message-bus.svg)](https://badge.fury.io/js/ember-message-bus)
 [![Build Status](https://travis-ci.org/patience-tema-baron/ember-message-bus.svg?branch=master)](https://travis-ci.org/patience-tema-baron/ember-message-bus)
 
-# ember-message-bus
+# ember-message-bus (No longer maintained)
 
 Explore new patterns of event-driven communication with `ember-message-bus`. This addon adds a simple service to your application, `message-bus`, which you can use to facilitate loosely coupled communications between services, components, and other Ember objects.
 
